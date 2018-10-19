@@ -162,5 +162,15 @@
         app:layout_constraintBaseline_toBaselineOf="@+id/signUpBtn1"
         app:layout_constraintEnd_toStartOf="@+id/signUpBtn1" />
 
+    <TextView
+        android:id="@+id/textView8"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="8dp"
+        android:layout_marginEnd="8dp"
+        android:text="Blodd"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent" />
+
 
 </android.support.constraint.ConstraintLayout>
