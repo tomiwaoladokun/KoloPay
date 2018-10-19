@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Tork</string>
+    <string name="fnameerr">Enter full name</string>
+    <string name="mailerr">Enter email address</string>
+    <string name="pnumbererr">Input phone number</string>
+    <string name="passwrderr">Password required</string>
+    <string name="conpasswrderr">Repeat password</string>
+
+
+
+
+
+</resources>
